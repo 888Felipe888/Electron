@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/888Felipe888/Electron/issues"
   },
-  "homepage": "https://github.com/888Felipe888/Electron#readme"
+  "homepage": "https://github.com/888Felipe888/Electron#readme",
+  "dependencies": {
+    "electron": "^13.2.3"
+  }
 }

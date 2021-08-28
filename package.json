@@ -1,0 +1,22 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Primer_Archivo.js",
+  "scripts": {
+    "test": "\"start\":\"electron src/Primer_Archivo.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/888Felipe888/Electron.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Juan Alonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/888Felipe888/Electron/issues"
+  },
+  "homepage": "https://github.com/888Felipe888/Electron#readme"
+}
